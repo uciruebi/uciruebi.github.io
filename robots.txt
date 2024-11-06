@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uciruebi.github.io/HIB/sitemap_index.txt
+Sitemap: https://uciruebi.github.io/LYE/sitemap_index.txt
+Sitemap: https://uciruebi.github.io/NIB/sitemap_index.txt
+Sitemap: https://uciruebi.github.io/PpA/sitemap_index.txt
